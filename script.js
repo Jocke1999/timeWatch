@@ -28,8 +28,6 @@ window.onload = function () {
         appendSeconds.innerHTML = seconds;
     }
     
-     
-    
     function startTimer () {
       tens++; 
       
@@ -56,5 +54,4 @@ window.onload = function () {
     
     }
     
-  
   }
